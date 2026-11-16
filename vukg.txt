@@ -1,3 +1,5 @@
 test vukg
 
 izmjena - branches test lab 2
+
+primjer lab 5 - 16.11.2026.
